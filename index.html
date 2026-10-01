@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="An interactive faculty directory dashboard." />
+    <title>Faculty Directory</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <aside class="control-panel" aria-label="Dashboard controls">
+        <div class="brand-lockup">
+          <div class="brand-mark" aria-hidden="true">F</div>
+          <div>
+            <p class="eyebrow">Directory</p>
+            <h1>Faculty<br />Dashboard</h1>
+          </div>
+        </div>
+
+        <div class="panel-section">
+          <p class="section-label">Appearance</p>
+          <div class="control-row">
+            <div>
+              <span class="control-title">Tile theme</span>
+              <span class="control-help">Switch the card palette</span>
+            </div>
+            <button class="theme-toggle" id="themeToggle" type="button" aria-pressed="false" aria-label="Switch to dark tiles">
+              <span class="toggle-dot"></span>
+            </button>
+          </div>
+
+          <div class="control-block">
+            <div class="control-heading">
+              <span class="control-title">Tile orientation</span>
+              <span class="value-chip" id="orientationValue">Vertical</span>
+            </div>
+            <div class="segmented-control" role="group" aria-label="Tile orientation">
+              <button class="segment is-active" type="button" data-orientation="vertical">Vertical</button>
+              <button class="segment" type="button" data-orientation="horizontal">Horizontal</button>
+            </div>
+          </div>
+
+          <div class="control-block">
+            <div class="control-heading">
+              <span class="control-title">Tile size</span>
+              <span class="value-chip" id="sizeValue">Medium</span>
+            </div>
+            <input id="sizeSlider" type="range" min="220" max="420" step="10" value="300" aria-label="Tile size" />
+            <div class="range-labels"><span>Compact</span><span>Spacious</span></div>
+          </div>
+        </div>
+
+        <div class="panel-section">
+          <p class="section-label">Show on tiles</p>
+          <div class="visibility-list">
+            <label class="switch-row">
+              <span><span class="control-title">Name</span><span class="control-help">Faculty member name</span></span>
+              <input class="visibility-toggle" type="checkbox" data-field="name" checked />
+              <span class="switch-ui" aria-hidden="true"></span>
+            </label>
+            <label class="switch-row">
+              <span><span class="control-title">Title</span><span class="control-help">Academic role</span></span>
+              <input class="visibility-toggle" type="checkbox" data-field="title" checked />
+              <span class="switch-ui" aria-hidden="true"></span>
+            </label>
+            <label class="switch-row">
+              <span><span class="control-title">Number</span><span class="control-help">Phone number</span></span>
+              <input class="visibility-toggle" type="checkbox" data-field="number" checked />
+              <span class="switch-ui" aria-hidden="true"></span>
+            </label>
+            <label class="switch-row">
+              <span><span class="control-title">Office</span><span class="control-help">Office location</span></span>
+              <input class="visibility-toggle" type="checkbox" data-field="office" checked />
+              <span class="switch-ui" aria-hidden="true"></span>
+            </label>
+            <label class="switch-row">
+              <span><span class="control-title">Office hours</span><span class="control-help">Weekly availability</span></span>
+              <input class="visibility-toggle" type="checkbox" data-field="hours" checked />
+              <span class="switch-ui" aria-hidden="true"></span>
+            </label>
+          </div>
+        </div>
+
+        <div class="panel-footer">
+          <span class="status-dot"></span>
+          <span><strong id="facultyCount">Loading</strong> records ready</span>
+        </div>
+      </aside>
+
+      <main class="dashboard" id="dashboard">
+        <header class="dashboard-header">
+          <div>
+            <p class="eyebrow">Mathematics · Faculty directory</p>
+            <h2>Meet the faculty</h2>
+          </div>
+          <div class="header-note"><span class="click-icon" aria-hidden="true">↗</span> Select a tile to view website</div>
+        </header>
+        <div class="loading-state" id="loadingState" role="status">
+          <div class="loading-spinner" aria-hidden="true"></div>
+          <p>Loading faculty directory…</p>
+        </div>
+        <div class="faculty-grid" id="facultyGrid" aria-live="polite"></div>
+      </main>
+    </div>
+
+    <div class="modal-backdrop" id="modalBackdrop" hidden>
+      <button class="modal-close" id="modalClose" type="button" aria-label="Close faculty website">×</button>
+      <section class="website-modal" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+        <div class="modal-header">
+          <div>
+            <p class="eyebrow">Faculty website</p>
+            <h2 id="modalTitle">Faculty profile</h2>
+          </div>
+          <span class="external-link">Local profile</span>
+        </div>
+        <div class="iframe-wrap">
+          <div class="iframe-loading" id="iframeLoading">Loading website…</div>
+          <iframe id="websiteFrame" title="Faculty website" src="about:blank"></iframe>
+        </div>
+      </section>
+    </div>
+
+    <script src="Fac_Website/profile-manifest.js"></script>
+    <script src="app.js" defer></script>
+  </body>
+</html>
