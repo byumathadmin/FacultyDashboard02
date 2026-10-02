@@ -7,13 +7,18 @@
     "Office Room": "270 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "Wednesday",
+          "Time": "1 - 2 PM"
+        }
+      ]
     }
   },
   "Karen Oliverson": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/7e5a960/2147483647/strip/true/crop/225x300+36+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F43%2F6c%2Fc0afd20a4a7581bc094c773ae864%2Foliverson-karen.jpeg",
     "Link to Website": "https://math.byu.edu/directory/karen-oliverson",
-    "Job Title": "Adjunct Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -24,29 +29,43 @@
   "Rebeca Paulsen": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/716a672/2147483647/strip/true/crop/3718x4957+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F51%2Fb3%2Fa291c5c1449d92e5eddb9b744971%2Fpaulsen-rebeca-03.jpg",
     "Link to Website": "https://math.byu.edu/directory/paulsen-rebeca",
-    "Job Title": "Adjunct Faculty",
+    "Job Title": "",
     "Phone Number": "801-422-2115",
     "Office Room": "161 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "TTh",
+          "Time": "4 - 5 PM"
+        }
+      ]
     }
   },
   "Kenyon Platt": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/d704947/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F1a%2F40%2F4e8faa2d467a97ebff4b40d56514%2Fplattkenyon.jpg",
     "Link to Website": "https://math.byu.edu/directory/platt-kenyon",
-    "Job Title": "Adjunct Faculty",
+    "Job Title": "",
     "Phone Number": "801-422-2115",
     "Office Room": "161 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "MWF",
+          "Time": "10:25 - 10:55 AM"
+        },
+        {
+          "Identifier": "",
+          "Time": "12 - 12:30 PM"
+        }
+      ]
     }
   },
   "Vladimir Soloviev": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/3ad6a12/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F5b%2F9b%2F3a1088994a65bd9a2c5de19050c3%2Fsolovievvladimir.jpeg",
     "Link to Website": "https://math.byu.edu/directory/soloviev-vladimir",
-    "Job Title": "Adjunct Faculty",
+    "Job Title": "",
     "Phone Number": "801-422-3051",
     "Office Room": "350 EB",
     "Office Hours": {
@@ -57,7 +76,7 @@
   "Roger Baker": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/0f6caf4/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F8d%2F37%2F56217d594e8999a8722b39514ee5%2Froger-baker.jpg",
     "Link to Website": "https://math.byu.edu/directory/baker-roger",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -68,7 +87,7 @@
   "Wayne Barrett": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/0eadd9b/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2Fe2%2Fdb%2F6987c2344c46bf93a308f01063d8%2F24.jpg",
     "Link to Website": "https://math.byu.edu/directory/barrett-wayne-w",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -79,7 +98,7 @@
   "James Cannon": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/ae01058/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2Fb0%2F1a%2Fbefc07374a1591e5c2617baac2e5%2F17.jpg",
     "Link to Website": "https://math.byu.edu/directory/cannon-james-w",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -90,7 +109,7 @@
   "Shue-Sum Chow": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/4ad4bab/2147483647/strip/true/crop/4017x5356+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F84%2F4d%2F7d021d0a46b3b678f4fe90490f11%2Fchow-sum.jpg",
     "Link to Website": "https://math.byu.edu/directory/chow-shue-sum",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -101,7 +120,7 @@
   "Lawrence Fearnley": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/cd43db8/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F88%2F80%2F957b434043518a7937d3841bd644%2Flawrencefearnley.jpg",
     "Link to Website": "https://math.byu.edu/directory/fearnley-lawrence",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -112,7 +131,7 @@
   "Rodney Forcade": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/b317054/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F9f%2F6e%2Fc3a7b46e477987ce69e2e5c626a5%2Ftreefrog2-1.jpg",
     "Link to Website": "https://math.byu.edu/directory/forcade-rodney-w",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -123,7 +142,7 @@
   "Lynn Garner": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/126e84f/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2Ff9%2F6a%2Fbaf0a09a494fb55b2933e425d3e2%2Fgarnerlynn.jpeg",
     "Link to Website": "https://math.byu.edu/directory/garner-lynn-e",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -134,7 +153,7 @@
   "Gurcharan Gill": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/8b771f2/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2Fe2%2Fad%2F60dac128410284b73982296a0f98%2Fgillgurcharan.jpeg",
     "Link to Website": "https://math.byu.edu/directory/gill-gurcharan-s",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -145,7 +164,7 @@
   "Scott Glasgow": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/27fa8ef/2147483647/strip/true/crop/3639x4852+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F65%2Ff7%2F1c84411346eb887fa178279197e2%2Fglasgow-scott-06.jpg",
     "Link to Website": "https://math.byu.edu/directory/glasgow-scott",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -156,7 +175,7 @@
   "Ronald Jamison": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/a7c7e79/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2Faf%2F60%2Fa1ad5e794aba85203c809a6d35e6%2Fjamisonron.jpeg",
     "Link to Website": "https://math.byu.edu/directory/jamison-ronald",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -167,7 +186,7 @@
   "Kenneth Kuttler": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/1450e10/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F53%2F86%2F7f4b7d91480eba61c0aa06ff313b%2F191.jpg",
     "Link to Website": "https://math.byu.edu/directory/kuttler-kenneth",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -178,7 +197,7 @@
   "William Lang": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/b5c54ec/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2Fd4%2F61%2F3de54b3e49a387eb59aa66e050a3%2Flangbill.jpg",
     "Link to Website": "https://math.byu.edu/directory/lang-william-e",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -189,7 +208,7 @@
   "Gary Lawlor": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/473f011/2147483647/strip/true/crop/2752x3669+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2Faa%2F4b%2F51214a844313a8cbd1a567264148%2Flawlor-gary-04.jpg",
     "Link to Website": "https://math.byu.edu/directory/lawlor-gary",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -200,7 +219,7 @@
   "Kening Lu": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/4621fa9/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F7d%2Fcb%2F57106e1e461aabc5fa32add46b20%2Fkeninglu.jpg",
     "Link to Website": "https://math.byu.edu/directory/lu-kening",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -211,7 +230,7 @@
   "Tiancheng Ouyang": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/12be922/2147483647/strip/true/crop/961x1281+149+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2Fd1%2F93%2Faa1e2f664efb9e436df3d5755e09%2Fouyangtiancheng.jpg",
     "Link to Website": "https://math.byu.edu/directory/ouyang-tiancheng",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -222,7 +241,7 @@
   "Andrew Pollington": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/2c2dc4d/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F6e%2Ff5%2Fcf5464d542a5956a75e11f19cb48%2Fpollingtonandy.jpeg",
     "Link to Website": "https://math.byu.edu/directory/pollington-andrew",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -233,7 +252,7 @@
   "Robin Roundy": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/ecbd4d0/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F9c%2F95%2F4020c2be4fc79b8439fa8bcbf1fe%2Froundyrobin.jpg",
     "Link to Website": "https://math.byu.edu/directory/roundy-robin",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -244,7 +263,7 @@
   "William Smith": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/aea1061/2147483647/strip/true/crop/150x200+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2Fcb%2Fbb%2F9237d2e7478d95201e436fd46c3b%2F26.jpg",
     "Link to Website": "https://math.byu.edu/directory/smith-william",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -255,7 +274,7 @@
   "Vianey Villamizar": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/70d6196/2147483647/strip/true/crop/2609x3479+0+0/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2F97%2Fd5%2F6b299cab4479b2267ad4f17fefc5%2Fvillamizar-vianey-03.jpg",
     "Link to Website": "https://math.byu.edu/directory/villamizar-vianey",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -266,7 +285,7 @@
   "David Wright": {
     "Link to Picture": "https://brightspotcdn.byu.edu/dims4/default/725189d/2147483647/strip/true/crop/142x189+0+5/resize/150x200!/quality/90/?url=https%3A%2F%2Fbrigham-young-brightspot-us-east-2.s3.us-east-2.amazonaws.com%2Fd7%2Fff%2Fc74eaca144788cce35a8693c7ebc%2Fmath-department-025-142x200.jpg",
     "Link to Website": "https://math.byu.edu/directory/wright-david-g",
-    "Job Title": "Emiritus Faculty",
+    "Job Title": "",
     "Phone Number": "",
     "Office Room": "",
     "Office Hours": {
@@ -282,7 +301,16 @@
     "Office Room": "374 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "Tuesday",
+          "Time": "2 - 4 PM"
+        },
+        {
+          "Identifier": "Thursday",
+          "Time": "2 - 3 PM"
+        }
+      ]
     }
   },
   "Nickolas Andersen": {
@@ -293,7 +321,16 @@
     "Office Room": "210 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "MWF",
+          "Time": "11 AM - 1 PM"
+        },
+        {
+          "Identifier": "Thursday",
+          "Time": ""
+        }
+      ]
     }
   },
   "Lennard Bakker": {
@@ -315,7 +352,20 @@
     "Office Room": "312 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "Tuesday",
+          "Time": "3 - 3:50 PM"
+        },
+        {
+          "Identifier": "Thursday",
+          "Time": "10-10:50 AM"
+        },
+        {
+          "Identifier": "",
+          "Time": "1-1-50 PM"
+        }
+      ]
     }
   },
   "Zachary Boyd": {
@@ -337,7 +387,24 @@
     "Office Room": "352 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "Math 290",
+          "Time": "MW 3PM"
+        },
+        {
+          "Identifier": "",
+          "Time": "Friday 2 PM"
+        },
+        {
+          "Identifier": "Math 641",
+          "Time": "MW 10 AM"
+        },
+        {
+          "Identifier": "",
+          "Time": "Friday 3PM"
+        }
+      ]
     }
   },
   "David Cardon": {
@@ -359,7 +426,12 @@
     "Office Room": "314 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "MWF",
+          "Time": "10-10:50 AM"
+        }
+      ]
     }
   },
   "Gregory Conner": {
@@ -370,7 +442,20 @@
     "Office Room": "292A TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "Monday",
+          "Time": "3-4 PM"
+        },
+        {
+          "Identifier": "Wednesday",
+          "Time": "11 AM - 12 PM"
+        },
+        {
+          "Identifier": "Friday",
+          "Time": "1 - 2 PM"
+        }
+      ]
     }
   },
   "John Dallon": {
@@ -392,7 +477,16 @@
     "Office Room": "382 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "Tuesday",
+          "Time": "2 - 3:30 PM"
+        },
+        {
+          "Identifier": "Wednesday",
+          "Time": "11 AM - 12:30 PM"
+        }
+      ]
     }
   },
   "Michael Dorff": {
@@ -403,7 +497,12 @@
     "Office Room": "279 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "MWF",
+          "Time": "10 - 11 AM"
+        }
+      ]
     }
   },
   "Darrin Doud": {
@@ -425,7 +524,16 @@
     "Office Room": "286 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "MF",
+          "Time": "3 - 4 PM"
+        },
+        {
+          "Identifier": "Wednesday",
+          "Time": "11 AM - 12 PM"
+        }
+      ]
     }
   },
   "Christopher Grant": {
@@ -436,7 +544,16 @@
     "Office Room": "241 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "MATH 341",
+          "Time": "MWF 2 - 2:50 PM"
+        },
+        {
+          "Identifier": "Math 402",
+          "Time": "MWF 3 - 3:50 PM"
+        }
+      ]
     }
   },
   "Denise Halverson": {
@@ -447,7 +564,16 @@
     "Office Room": "238 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "MW",
+          "Time": "1 - 1:50 PM"
+        },
+        {
+          "Identifier": "Thursday",
+          "Time": "11 - 11:50 AM"
+        }
+      ]
     }
   },
   "Mark Hughes": {
@@ -458,7 +584,20 @@
     "Office Room": "204 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "Monday",
+          "Time": "10 - 10:50 AM"
+        },
+        {
+          "Identifier": "Wednesday",
+          "Time": "12 - 12:50 PM"
+        },
+        {
+          "Identifier": "Friday",
+          "Time": "2 - 2:50 PM"
+        }
+      ]
     }
   },
   "Stephen Humphries": {
@@ -469,7 +608,20 @@
     "Office Room": "284 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "Monday",
+          "Time": "3 - 4 PM"
+        },
+        {
+          "Identifier": "Wednesday",
+          "Time": "1 - 2 PM"
+        },
+        {
+          "Identifier": "Friday",
+          "Time": "12 - 1 PM"
+        }
+      ]
     }
   },
   "Tyler Jarvis": {
@@ -480,7 +632,20 @@
     "Office Room": "302 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "Monday",
+          "Time": "4 - 5 PM"
+        },
+        {
+          "Identifier": "Wednesday",
+          "Time": "11 AM - 12 PM"
+        },
+        {
+          "Identifier": "Friday",
+          "Time": "3 - 4 PM"
+        }
+      ]
     }
   },
   "Paul Jenkins": {
@@ -491,7 +656,16 @@
     "Office Room": "218 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "Monday",
+          "Time": "2 - 2:50 PM"
+        },
+        {
+          "Identifier": "WF",
+          "Time": "3 - 3:50 PM"
+        }
+      ]
     }
   },
   "Mark Kempton": {
@@ -501,8 +675,13 @@
     "Phone Number": "801-422-4141",
     "Office Room": "372 TMCB",
     "Office Hours": {
-      "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Appointment Note": "In 372 TMCB",
+      "Entries": [
+        {
+          "Identifier": "MWF",
+          "Time": "3 - 4 PM"
+        }
+      ]
     }
   },
   "Curtis Kent": {
@@ -513,7 +692,16 @@
     "Office Room": "288 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "288 TMCB - MWF",
+          "Time": "11 - 11:50 AM"
+        },
+        {
+          "Identifier": "Monday",
+          "Time": "4 PM (Cannon Seminar)"
+        }
+      ]
     }
   },
   "Xian-Jin Li": {
@@ -523,8 +711,13 @@
     "Phone Number": "801-422-1209",
     "Office Room": "216 TMCB",
     "Office Hours": {
-      "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Appointment Note": "In 216 TMCB",
+      "Entries": [
+        {
+          "Identifier": "MWF",
+          "Time": "10 - 10:50 AM"
+        }
+      ]
     }
   },
   "Erin Martin": {
@@ -535,7 +728,16 @@
     "Office Room": "243 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "Math Lab - MWF",
+          "Time": ""
+        },
+        {
+          "Identifier": "243 TMCB - T/F",
+          "Time": "2 - 3 PM (or EMC2 rm)"
+        }
+      ]
     }
   },
   "Steven McKay": {
@@ -545,8 +747,13 @@
     "Phone Number": "801-422-1760",
     "Office Room": "236 TMCB",
     "Office Hours": {
-      "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Appointment Note": "In 236 TMCB",
+      "Entries": [
+        {
+          "Identifier": "MWF",
+          "Time": "2 - 2:50 PM"
+        }
+      ]
     }
   },
   "Shane McQuarrie": {
@@ -556,8 +763,21 @@
     "Phone Number": "",
     "Office Room": "318 TMCB",
     "Office Hours": {
-      "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Appointment Note": "In 318 TMCB",
+      "Entries": [
+        {
+          "Identifier": "Monday",
+          "Time": "2:30 - 3:30 PM"
+        },
+        {
+          "Identifier": "Thursday",
+          "Time": "2 - 3 PM"
+        },
+        {
+          "Identifier": "Friday",
+          "Time": "2:30 - 3:30 PM"
+        }
+      ]
     }
   },
   "Kevin Miller": {
@@ -567,8 +787,21 @@
     "Phone Number": "801-422-0201",
     "Office Room": "304 TMCB",
     "Office Hours": {
-      "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Appointment Note": "In 304 TMCB",
+      "Entries": [
+        {
+          "Identifier": "Monday",
+          "Time": "4 - 5 PM"
+        },
+        {
+          "Identifier": "Wednesday",
+          "Time": "4 - 5 PM"
+        },
+        {
+          "Identifier": "Friday",
+          "Time": "9 - 10 AM"
+        }
+      ]
     }
   },
   "Pace Nielsen": {
@@ -578,8 +811,13 @@
     "Phone Number": "801-422-7884",
     "Office Room": "278 TMCB",
     "Office Hours": {
-      "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Appointment Note": "In 278 TMCB",
+      "Entries": [
+        {
+          "Identifier": "MWF",
+          "Time": "3 - 3:50 PM"
+        }
+      ]
     }
   },
   "Davi Obata": {
@@ -589,8 +827,13 @@
     "Phone Number": "801-422-9088",
     "Office Room": "310 TMCB",
     "Office Hours": {
-      "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Appointment Note": "In 310 TMCB",
+      "Entries": [
+        {
+          "Identifier": "MWF",
+          "Time": "2:45 - 3:45 PM"
+        }
+      ]
     }
   },
   "Kyle Pratt": {
@@ -600,8 +843,17 @@
     "Phone Number": "801-422-7538",
     "Office Room": "208 TMCB",
     "Office Hours": {
-      "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Appointment Note": "In 208 TMCB",
+      "Entries": [
+        {
+          "Identifier": "Math 485",
+          "Time": "MWF 3 - 3:50 PM"
+        },
+        {
+          "Identifier": "Math 541",
+          "Time": "MWF 4 - 4:50 PM"
+        }
+      ]
     }
   },
   "Nathan Priddis": {
@@ -622,8 +874,17 @@
     "Phone Number": "",
     "Office Room": "364 TMCB",
     "Office Hours": {
-      "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Appointment Note": "In 364 TMCB",
+      "Entries": [
+        {
+          "Identifier": "Math 112",
+          "Time": "MWF 3 - 3:50 PM"
+        },
+        {
+          "Identifier": "Math 352",
+          "Time": "MWF 4 - 4:50 PM"
+        }
+      ]
     }
   },
   "Robert Snellman": {
@@ -634,7 +895,20 @@
     "Office Room": "234 TMCB",
     "Office Hours": {
       "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Entries": [
+        {
+          "Identifier": "155A TMCB - T/Th",
+          "Time": "12 - 12:50 PM"
+        },
+        {
+          "Identifier": "234 TMCB - W",
+          "Time": "12 - 12:50 PM"
+        },
+        {
+          "Identifier": "Zoom - Sat",
+          "Time": "11 - 11:50 AM"
+        }
+      ]
     }
   },
   "Eric Swenson": {
@@ -644,8 +918,21 @@
     "Phone Number": "801-422-7896",
     "Office Room": "237 TMCB",
     "Office Hours": {
-      "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Appointment Note": "In 286 TMCB",
+      "Entries": [
+        {
+          "Identifier": "Monday",
+          "Time": "3 - 4 PM"
+        },
+        {
+          "Identifier": "Thursday",
+          "Time": "12 - 1 PM"
+        },
+        {
+          "Identifier": "Friday",
+          "Time": "12 - 1 PM"
+        }
+      ]
     }
   },
   "Benjamin Webb": {
@@ -666,8 +953,21 @@
     "Phone Number": "801-422-2131",
     "Office Room": "350 TMCB",
     "Office Hours": {
-      "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Appointment Note": "In 350 TMCB",
+      "Entries": [
+        {
+          "Identifier": "Monday",
+          "Time": "11 - 11:50 AM"
+        },
+        {
+          "Identifier": "Wednesday",
+          "Time": "10 - 10:50 AM"
+        },
+        {
+          "Identifier": "Friday",
+          "Time": "12 - 12:50 PM"
+        }
+      ]
     }
   },
   "C.J. Bott": {
@@ -677,8 +977,17 @@
     "Phone Number": "",
     "Office Room": "219 TMCB",
     "Office Hours": {
-      "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Appointment Note": "In 155A TMCB",
+      "Entries": [
+        {
+          "Identifier": "Math 11",
+          "Time": "MWF 3 - 4 PM"
+        },
+        {
+          "Identifier": "Math 290",
+          "Time": "MWF 11 AM - 12 PM"
+        }
+      ]
     }
   },
   "Mary Ellen Rosen": {
@@ -688,8 +997,17 @@
     "Phone Number": "",
     "Office Room": "380 TMCB",
     "Office Hours": {
-      "Appointment Note": "(or by appointment)",
-      "Entries": []
+      "Appointment Note": "In 380 TMCB",
+      "Entries": [
+        {
+          "Identifier": "Monday",
+          "Time": "11 AM - 1 PM"
+        },
+        {
+          "Identifier": "Wednesday",
+          "Time": "11 AM - 12 PM"
+        }
+      ]
     }
   }
 }
